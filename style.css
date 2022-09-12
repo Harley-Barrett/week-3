@@ -1,0 +1,51 @@
+/* CSS: Cascading Style Sheets
+
+properties and values
+
+*/
+
+h1 {
+    color: rgb(0, 217, 255);
+    background-color: black;
+    font-size: 100px;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+}
+
+h2 {
+    color: rgb(255, 255, 255);
+    background-color: indigo;
+    font-family: 'Roboto Condensed', sans-serif;
+    text-align: center;
+    font-size: 50px;
+}
+
+h3 {
+    color: green;
+    text-align: center;
+}
+
+p {
+    color: crimson;
+    text-align: center;
+}
+
+li {
+    color: white;
+    background-color: indigo;
+    text-align: center;
+}
+
+ul {
+    color: white;
+    background-color: indigo;
+    text-align: center;
+}
+
+img {
+    height: 200px;
+    width: 300px;
+}
+
+
+

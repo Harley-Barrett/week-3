@@ -4,6 +4,52 @@ properties and values
 
 */
 
+.headers {
+    background-color: rgb(0, 0, 0);
+    color: rgb(140, 0, 255);
+    padding: 50px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: crimson;
+    border-radius: 100px;
+}
+
+.hyperlinks {
+    color: rgb(0, 255, 85);
+    margin-left: 150px;
+}
+
+.span {
+    color: rgb(0, 153, 255);
+    background-color: rgb(0, 255, 255);
+}
+
+.Paragraphs {
+    color: red;
+    background-color: rgb(140, 0, 255);
+    padding: 15px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 100px;
+}
+
+.unordered_list {
+    padding: 10px;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+
 h1 {
     color: rgb(0, 217, 255);
     background-color: black;
